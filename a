@@ -1,0 +1,25 @@
+[33mcommit f5757afd934c0ccf33ab793f987b039ef28241d4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Kei-Seo <ghdtjr3824@naver.com>
+Date:   Thu Mar 11 20:43:44 2021 +0900
+
+    사골국물
+
+[1mdiff --git a/육계장.txt b/육계장.txt[m
+[1mindex e69de29..3e36e1e 100644[m
+[1m--- a/육계장.txt[m
+[1m+++ b/육계장.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m사골 국물이 맛있다[m
+
+[33mcommit 406e1d6a1d7b8760952967c57300afdaf25f0bb0[m
+Author: Kei-Seo <ghdtjr3824@naver.com>
+Date:   Thu Mar 11 19:54:44 2021 +0900
+
+    hello, 육개장
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/육계장.txt b/육계장.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
